@@ -1,3 +1,6 @@
+#Fretes Lautaro
+#1B
+
 from os import system
 system("cls")
 
@@ -11,7 +14,6 @@ def parse_habilidades(habilidades:str):
         return habilidades
 
 def parse_raza(raza:str):
-
     raza = raza.split("-")
     return raza
 

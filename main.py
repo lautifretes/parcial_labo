@@ -1,3 +1,6 @@
+#Fretes Lautaro
+#1B
+
 from funciones import *
 from os import system
 system("cls")
